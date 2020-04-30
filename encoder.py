@@ -1,5 +1,5 @@
 # huffman encoding solution by rushil a.
-DIAG = True # toggles verbose output
+DIAG = True # toggles verbose output (True = enabled)
 
 if DIAG == True:
     print("diagnostics enabled")
