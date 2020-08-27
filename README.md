@@ -1,7 +1,7 @@
 # huffpy
 **A Huffman encoder built in python**
 
-This Huffman encoder was built using only python’s core modules. It does not use heaps/stacks such as those present in the `heapq` library and is therefore relatively inefficient in comparison, but functionally works the same. It also comes with a decoder that interfaces with a text file output by the encoder.
+This Huffman encoder was built using only python’s core modules. It does not use heaps/stacks such as those present in the `heapq` library and is therefore very inefficient in comparison. It also comes with a decoder that interfaces with a text file output by the encoder.
 
 ## Instructions
 To run the encoder script:
